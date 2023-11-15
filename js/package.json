@@ -1,0 +1,14 @@
+{
+  "name": "lox",
+  "version": "1.0.0",
+  "description": "lox",
+  "main": "copy.js",
+  "scripts": {
+    "test": "node -v"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
